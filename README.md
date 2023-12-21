@@ -27,7 +27,7 @@ Navigate to the project folder and install dependencies:
     
 In another terminal, start the Angular application:
 
-   ng serv 
+    ng serve
 
 Open your browser and go to http://localhost:4200.
 
